@@ -136,6 +136,7 @@ Add CDN
 
   <img width="940" height="488" alt="image" src="https://github.com/user-attachments/assets/ca4299e2-dad4-4129-bb45-216bc5401819" />
 
+<img width="1326" height="687" alt="image" src="https://github.com/user-attachments/assets/9e3624e6-3936-4102-a035-bfa4909dfc99" />
 
    
 
