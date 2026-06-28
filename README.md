@@ -131,6 +131,14 @@ Add CDN
 
 3) Wait for 5 min and try to restart npm and node on frontend servers
 
+  <img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/3bd4fdad-cb6c-46d7-a76a-297ceb140447" />
+
+
+  <img width="940" height="488" alt="image" src="https://github.com/user-attachments/assets/ca4299e2-dad4-4129-bb45-216bc5401819" />
+
+
+   
+
 
    
 
@@ -160,15 +168,8 @@ Add CDN
 
     
 
- 7) 
 
    
 
 
-Create server from images
 
-
-Create Target Groups
-
-
-Create Load balancer
